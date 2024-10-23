@@ -1,2 +1,2 @@
 # M-y-Intro
-This is just a start of my intro.
+This is a start of my intro.
